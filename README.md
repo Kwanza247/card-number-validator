@@ -39,7 +39,7 @@ The server starts on `http://localhost:3000`
 
 ## API Reference
 
-### POST `/card/validate`
+### POST ` /api/validate-card`
 
 Validates whether a card number passes the Luhn algorithm check.
 
